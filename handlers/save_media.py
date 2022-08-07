@@ -96,7 +96,7 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
                 [[InlineKeyboardButton("Open Link", url=share_link)],
                  [InlineKeyboardButton("Bots Channel", url="https://t.me/+SUmcuvpkK6E2M2Zl"),
                   InlineKeyboardButton("Support Group", url="https://t.me/+ekHFpHjqdn4zMDc1")]
-            ),
+            )
             disable_web_page_preview=True
         )
     except FloodWait as sl:
