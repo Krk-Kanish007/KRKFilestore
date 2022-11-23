@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @ottblasters
 
 import os
 
@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:**  @Ottblasters
 
-👥 **Support Group:** [Linux Repositories](https://t.me/+ekHFpHjqdn4zMDc1)
+👥 **Support Group:** [Linux Repositories](https://t.me/ottblasters)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/+SUmcuvpkK6E2M2Zl)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/ottblasters)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Ottblasters
