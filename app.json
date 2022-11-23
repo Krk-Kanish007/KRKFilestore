@@ -7,7 +7,7 @@
         "store",
         "bot"
     ],
-    "repository": "ThalaThalapathy/KRKFilestore",
+    "repository": "https://github.com/Krk-Kanish007/KRKFilestore",
     "website": "https://telegram.dog/AbirHasan2005",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
@@ -33,11 +33,11 @@
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
         "UPDATES_CHANNEL": {
-            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
+            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -1001349329010",
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
+            "description": "Logs Channel ID for some Tracking XD. Example: -1001704971969"
         },
         "BANNED_USERS": {
             "description": "Banned unwanted members",
